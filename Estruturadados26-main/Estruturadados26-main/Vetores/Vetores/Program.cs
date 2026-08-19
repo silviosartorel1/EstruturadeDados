@@ -7,7 +7,7 @@ comen mult linhas
 
 // Alguns tipos de dados
 int number = 10;
-string name =  "Guilherme de Oliveira Padilha";
+string name =  "Silvio";
 double quantity = 0.0;
 bool hasMoney = true;
 char letter = 'A';
@@ -28,13 +28,13 @@ Console.Write("Seja bem-vindo " + name);
 
 /* Contatenando strings */
 
-string firstName = "Guilherme", lastName = "";
-lastName ="Oliveira";
+string firstName = "Silvio", lastName = "";
+lastName ="Sartorel";
 
 string fullName = firstName + "" + lastName;
 Console.WriteLine (fullName);
 
-string middleName = "Padilha";
+string middleName = "Antonio";
 
 // Interpolção de string
 string message = $"Nome completo: {firstName} {middleName} {lastName}";
