@@ -9,8 +9,8 @@ public class CallCenter
         Calls = new Queue<IncomingCall>();
     }
 
-    public void Call(int clientId)
-    {
+    public void Call(int clientId){
+    
         IncomingCall call = new IncomingCall()
         {
             Id = ++_counter,
