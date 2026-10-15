@@ -1,0 +1,14 @@
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\arvores.AssemblyInfoInputs.cache
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\arvores.AssemblyInfo.cs
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\arvores.csproj.CoreCompileInputs.cache
+C:\Users\460252\Downloads\Nova pasta\arvores\bin\Debug\net10.0\arvores.exe
+C:\Users\460252\Downloads\Nova pasta\arvores\bin\Debug\net10.0\arvores.deps.json
+C:\Users\460252\Downloads\Nova pasta\arvores\bin\Debug\net10.0\arvores.runtimeconfig.json
+C:\Users\460252\Downloads\Nova pasta\arvores\bin\Debug\net10.0\arvores.dll
+C:\Users\460252\Downloads\Nova pasta\arvores\bin\Debug\net10.0\arvores.pdb
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\arvores.dll
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\refint\arvores.dll
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\arvores.pdb
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\arvores.genruntimeconfig.cache
+C:\Users\460252\Downloads\Nova pasta\arvores\obj\Debug\net10.0\ref\arvores.dll
